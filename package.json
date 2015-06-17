@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-imperative",
+  "description": "JavaScript Imperative Style - ESLint Shareable Config",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "eslint": "0.x"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imperative/eslint-config-imperative.git"
+  }
+}

@@ -1,0 +1,38 @@
+# eslint-config-imperative
+
+#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs)
+
+JavaScript Imperative Style is just the stuff that actually matters rather than subjective preferences such as braces and spaces.
+
+## Install
+
+```bash
+npm install eslint-config-imperative
+```
+
+## Usage
+
+Shareable configs are designed to work with the `extends` feature of `.eslintrc` files.
+You can learn more about
+[Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
+official ESLint website.
+
+To use the JavaScript Standard Style shareable config, first run this:
+
+```bash
+npm install eslint-config-imperative
+```
+
+Then, add this to your .eslintrc file:
+
+```
+{
+  "extends": "imperative"
+}
+```
+
+*Note: We omitted the `eslint-config-` prefix since it is automatically assumed by ESLint.*
+
+You can override settings from the shareable config by adding them directly into your
+`.eslintrc` file.
+
