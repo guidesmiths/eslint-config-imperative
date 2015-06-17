@@ -9,6 +9,19 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/imperative/eslint-config-imperative.git"
-  }
+    "url": "git://github.com/guidesmiths/eslint-config-imperative.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guidesmiths/eslint-config-imperative/issues"
+  },
+  "homepage": "https://github.com/guidesmiths/eslint-config-imperative",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "imperative",
+    "objective"
+  ],
+  "author": "GuideSmiths Ltd"
 }
