@@ -160,7 +160,7 @@
     "space-in-parens": 0,
     "space-infix-ops": 0,
     "space-return-throw-case": 0,
-    "space-unary-ops": [2, { "words": true, "nonwords": false }],
+    "space-unary-ops": 0,
     "strict": 0,
     "use-isnan": 2,
     "valid-jsdoc": 0,
