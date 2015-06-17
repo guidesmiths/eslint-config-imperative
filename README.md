@@ -2,7 +2,7 @@
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs)
 
-JavaScript Imperative Style is just the stuff that actually matters rather than subjective preferences such as braces and spaces.
+JavaScript Imperative Style is just the stuff that actually matters rather than subjective preferences.
 
 ## Install
 
