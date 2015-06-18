@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-imperative",
   "description": "JavaScript Imperative Style - ESLint Shareable Config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "peerDependencies": {
     "eslint": "0.x",
     "eslint-plugin-imperative": "0.0.2"
