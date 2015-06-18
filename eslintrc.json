@@ -18,6 +18,10 @@
     "window": false
   },
 
+  "plugins": [
+    "imperative"
+  ],
+
   "rules": {
     "accessor-pairs": 2,
     "block-scoped-var": 0,
@@ -154,6 +158,7 @@
     "semi": 0,
     "semi-spacing": 0,
     "sort-vars": 0,
+    "imperative/some-unused-vars": [2, { "names": [ "debug", "utils" ] }],
     "space-after-keywords": 0,
     "space-before-blocks": 0,
     "space-before-function-paren": 0,

@@ -3,7 +3,8 @@
   "description": "JavaScript Imperative Style - ESLint Shareable Config",
   "version": "0.0.5",
   "peerDependencies": {
-    "eslint": "0.x"
+    "eslint": "0.x",
+    "eslint-plugin-imperative": "0.0.2"
   },
   "license": "MIT",
   "main": "index.js",
