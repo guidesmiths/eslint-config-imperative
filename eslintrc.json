@@ -18,10 +18,6 @@
     "window": false
   },
 
-  "plugins": [
-    "imperative"
-  ],
-
   "rules": {
     "accessor-pairs": 2,
     "block-scoped-var": 0,
