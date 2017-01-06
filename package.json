@@ -2,10 +2,6 @@
   "name": "eslint-config-imperative",
   "description": "JavaScript Imperative Style - ESLint Shareable Config",
   "version": "0.0.6",
-  "peerDependencies": {
-    "eslint": "0.x",
-    "eslint-plugin-imperative": "0.0.2"
-  },
   "license": "MIT",
   "main": "index.js",
   "repository": {
@@ -24,5 +20,9 @@
     "imperative",
     "objective"
   ],
-  "author": "GuideSmiths Ltd"
+  "author": "GuideSmiths Ltd",
+  "peerDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-plugin-imperative": "^1.0.0"
+  }
 }
