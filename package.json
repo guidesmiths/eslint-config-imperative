@@ -22,7 +22,7 @@
   ],
   "author": "GuideSmiths Ltd",
   "peerDependencies": {
-    "eslint": "^5.0.0",
-    "eslint-plugin-imperative": "^2.0.0"
+    "eslint": "^6.1.0",
+    "eslint-plugin-imperative": "^3.0.0"
   }
 }
